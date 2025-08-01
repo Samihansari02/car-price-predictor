@@ -1,9 +1,11 @@
 # Car Price Predictor using Machine Learning
+
+## Overview
 This project predicts the selling price of used cars based on various features using a Linear Regression model. It includes steps like data cleaning, exploratory data analysis (EDA), model training, evaluation, and deploying a user-friendly web interface using Flask.
 
 
 
-### Features Used:
+## Features Used:
 The model uses the following features to estimate the car’s selling price:
 
 - Name - Car name
