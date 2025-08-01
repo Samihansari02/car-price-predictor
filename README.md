@@ -2,6 +2,7 @@
 This project predicts the selling price of used cars based on various features using a Linear Regression model. It includes steps like data cleaning, exploratory data analysis (EDA), model training, evaluation, and deploying a user-friendly web interface using Flask.
 
 
+
 ### Features Used:
 The model uses the following features to estimate the car’s selling price:
 
@@ -11,14 +12,6 @@ The model uses the following features to estimate the car’s selling price:
 - Present Price – Price of the car when bought
 - Kms Driven – Total distance driven
 - Fuel Type – Petrol, Diesel, or LPG
-
-- 
-- 
-- 
-- Seller Type – Dealer or Individual
-- Transmission – Manual or Automatic
-- Owner – Number of previous owners
-- Car Age – Derived from Year of Purchase
 
 
 ### Workflow:
