@@ -39,24 +39,6 @@ The model uses the following features to estimate the car’s selling price:
 - Integrated model to accept user inputs and return predictions
 
 
-### Setup Guide
-1. Clone the repo & install dependencies
-
-git clone <repo-url>
-cd <repo-folder>
-pip install -r requirements.txt
-
-2. Run the web app
-
-python app.py
-
-3. Use the app
-
-Open http://localhost:5000
-Fill in car details
-Get the predicted selling price instantly
-
-
 ### Technologies Used:
 - Python, Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn (Linear Regression)
