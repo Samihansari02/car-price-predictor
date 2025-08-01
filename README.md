@@ -4,9 +4,17 @@ This project predicts the selling price of used cars based on various features u
 
 ### Features Used:
 The model uses the following features to estimate the car’s selling price:
-- Present Price – Price of the car when bought (in lakhs)
+
+- Name - Car name
+- Company - Manufacturing company
+- Year - year in which the car was purchased or manufactured.
+- Present Price – Price of the car when bought
 - Kms Driven – Total distance driven
-- Fuel Type – Petrol, Diesel, or CNG
+- Fuel Type – Petrol, Diesel, or LPG
+
+- 
+- 
+- 
 - Seller Type – Dealer or Individual
 - Transmission – Manual or Automatic
 - Owner – Number of previous owners
