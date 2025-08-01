@@ -16,7 +16,7 @@ The model uses the following features to estimate the car’s selling price:
 - Fuel Type – Petrol, Diesel, or LPG
 
 
-### Workflow:
+## Workflow:
 1. Data Preprocessing
 - Removed irrelevant columns (e.g., Car_Name)
 - Converted Year into Car Age
@@ -42,7 +42,7 @@ The model uses the following features to estimate the car’s selling price:
 - Integrated model to accept user inputs and return predictions
 
 
-### Technologies Used:
+## Technologies Used:
 - Python, Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn (Linear Regression)
 - Flask (for web deployment)
